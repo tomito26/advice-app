@@ -1,0 +1,25 @@
+/* #root,html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+} */
+.Advice{
+    height: 100vh;
+    background: url('../Assets/jefferson-santos-9SoCnyQmkzI-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+
+} 
